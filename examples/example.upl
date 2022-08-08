@@ -1,0 +1,8 @@
+-- <- do this to comment.
+--TYPE THEM EXACT like "int" and "out"
+-- This does not have any errors. I am to lazy 😅
+
+int apples = 5
+int bananas = 2
+int players = 10
+out(this is a debug message that cant reference things)
